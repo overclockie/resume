@@ -471,4 +471,14 @@ margin: -15px 16px;
                 top: 592px;
                 
             }
+
+            .triangle {
+                width: 420px;
+              height: 184px;
+              
+              opacity: 1;
+              position: relative;
+              top: 0px;
+              left: 0px;  
+            }
 }
