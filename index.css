@@ -389,7 +389,15 @@ margin: -15px 16px;
 @media(max-width: 420px){
 
     .triangle2 {
-    width: 300px;
+    width: 410px;
+    }
+
+    .ellipse {
+        position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 160px;
+    top: 38px;
     }
 
 }
