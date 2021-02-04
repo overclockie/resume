@@ -1,3 +1,4 @@
+
 .print2 {
     position: relative;
     width: 612px;
@@ -385,4 +386,16 @@ flex-grow: 0;
 margin: -15px 16px;
 }
 
+@media(max-width: 420px){
 
+    .triangle {
+        width: 300px;
+      height: 184px;
+      
+      opacity: 1;
+      position: relative;
+      top: 0px;
+      left: 0px;  
+    }
+
+}
